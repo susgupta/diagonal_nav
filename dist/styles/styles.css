@@ -154,7 +154,7 @@ main section {
   margin: auto;
   padding: 1em 4em;
   max-width: 680px;
-  overflow: auto;
+  overflow: hidden;
   color: #eece1a;
 }
 
