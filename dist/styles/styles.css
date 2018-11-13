@@ -58,7 +58,7 @@ nav h1 {
   font-size: 0.8em;
   font-weight: 300;
   letter-spacing: 1px;
-  color: #fff;
+  color: #eece1a;
   text-transform: uppercase;
   text-align: center;
   background-color: #353441;
@@ -109,7 +109,7 @@ main {
   overflow: hidden;
   transform-origin: 0% 50%;
   background-size: cover;
-  background-image: url('../img/background1.jpg');
+  background-image: url("../img/background1.jpg");
 }
 
 main::after {
@@ -155,7 +155,7 @@ main section {
   padding: 1em 4em;
   max-width: 680px;
   overflow: auto;
-  background-color: rgba(255, 255, 255, 1);
+  color: #eece1a;
 }
 
 section h1 {
